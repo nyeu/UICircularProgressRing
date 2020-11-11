@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name         = "UICircularProgressRing"
-  spec.version      = "7.0.0"
+  spec.version      = "7.1.0"
   spec.homepage     = "http://ucpr.luispadron.com"
   spec.summary      = "A highly customizable circular progress bar for iOS written in Swift"
   spec.description  = <<-DESC
